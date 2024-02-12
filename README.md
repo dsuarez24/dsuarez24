@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java Scripth,API development,Mongo DB**
 
-- 📫 How to reach me **srodriguez-2022165@kinal.edu.gt**
+- 📫 How to reach me **dsuarez-2022233@kinal.edu.gt**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
